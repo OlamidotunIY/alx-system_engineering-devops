@@ -1,0 +1,1 @@
+$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd) - This prints the file path of the working directory
